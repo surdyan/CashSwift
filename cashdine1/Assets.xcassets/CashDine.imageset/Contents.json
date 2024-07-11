@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "craiyon_180705_image_illustrating_the_financial_benefits_of_quitting_work_blue_tone_creativity.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
